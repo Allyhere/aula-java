@@ -1,8 +1,6 @@
 public class Piloto {
-    String veiculo;
     String equipe;
     String nome;
-    float peso;
+    double peso;
     int vitorias;
-    double recordePessoal;
 }
